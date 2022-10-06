@@ -1,8 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9c82bc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c82bc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+a+Luana+Rodrigues;+Sou+Certificada+em+Análise+de+Dados;+Pela+IBM+e+Laboratoria;Seja+Vindo!+✨%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c82bc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+a+Luana+Rodrigues;+Sou+Certificada+em+Análise+de+Dados;+Pela+IBM+e+Laboratoria;+Futura+Engenheira+de+Dados+👩‍💻;Seja+Vindo(a)!+✨%29)](https://git.io/typing-svg)
 
 
+
+
+
+
+
+## Detalhes
 
 📊Adequada para oportunidades juniores nas áreas de Análise de Dados.
 
@@ -47,12 +53,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/luanac-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:luanadaconc@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
+
 
 
 
