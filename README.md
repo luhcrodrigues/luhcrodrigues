@@ -6,8 +6,6 @@
 
 
 
-
-
 ## Detalhes
 
 📊Adequada para oportunidades juniores nas áreas de Análise de Dados.
@@ -15,6 +13,10 @@
 📚Atualmente faço o Bootcamp da Semantix para Big Data Enginner e Geração Tech Unimed-BH - Ciência de Dados da DIO
 
 📚Atualmente estudo autodidata e faço cursos e bootcamps gratuitos.
+
+
+
+<div align="center">
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luhcrodrigues&show_icons=true&count_private=true&hide_border=true&title_color=9c82bc&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="luhcrodrigues Alvarez github stats" /> 
@@ -53,18 +55,31 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+## Onde estou estudando?
+
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![Alura](https://img.shields.io/badge/Alura-EC5252?style=for-the-badge&logo=Alura&logoColor=white)
+![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
 
 
+## Onde pode me achar?
 <div align="center">
   <a href="https://www.linkedin.com/in/luanac-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:luanadaconc@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://github.com/luhcrodrigues"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    </a>
 </div>
 
-<div align="center">
+## Certificados:
 
-
-
-
-
+Cursos   | Links 
+--------- | ------
+Power BI Completo - Do Básico ao Avançado  |https://www.credly.com/badges/0d122096-57ae-4c13-8b12-718ace9bab08/linked_in_profile
+🧠 agile reasoning  | 🔦 focus
+🧮 pattern identification facility | 🦉analytical and critical ability
+📚 self-directed study  | 🦾flexibility 
+💡 creativity | 📈perseverance
+⚠️prudence | 👨🏻‍🔬curiosity 
+🔡argumentation | 🖖communication
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9c82bc&height=120&section=footer"/>
