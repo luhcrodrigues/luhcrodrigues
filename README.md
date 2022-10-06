@@ -6,7 +6,7 @@
 
 📊Adequada para oportunidades juniores nas áreas de Análise de Dados.
 
-Atualmente faço o Bootcamp da Semantix para Big Data Enginner.
+📚Atualmente faço o Bootcamp da Semantix para Big Data Enginner e Geração Tech Unimed-BH - Ciência de Dados da DIO
 
 📚Atualmente estudo autodidata e faço cursos e bootcamps gratuitos.
 
@@ -26,8 +26,19 @@ Atualmente faço o Bootcamp da Semantix para Big Data Enginner.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanac-rodrigues)
 
+## Habilidades Principais:
+![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## O que estou estudando agora?
+## Ferramentas:
+![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## O que estou estudando neste momento:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
