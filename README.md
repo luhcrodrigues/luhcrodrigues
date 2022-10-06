@@ -74,12 +74,12 @@
 
 Cursos   | Links 
 --------- | ------
-Power BI Completo - Do Básico ao Avançado  |https://www.credly.com/badges/0d122096-57ae-4c13-8b12-718ace9bab08/linked_in_profile
-🧠 agile reasoning  | 🔦 focus
-🧮 pattern identification facility | 🦉analytical and critical ability
-📚 self-directed study  | 🦾flexibility 
-💡 creativity | 📈perseverance
-⚠️prudence | 👨🏻‍🔬curiosity 
-🔡argumentation | 🖖communication
+Data Analytics and Visualization Camp |https://www.credly.com/badges/0d122096-57ae-4c13-8b12-718ace9bab08/linked_in_profile
+Power BI Completo - Do Básico ao Avançado| https://www.udemy.com/certificate/UC-9194390d-a2b3-45e6-94b1-b1caae1b2837
+ Domine Google Data Studio: o Curso Completo (2022) | https://www.udemy.com/certificate/UC-a45d37f5-908d-4cc6-a7d7-36b4ecf342cf
+| 
+| 
+| 
+| 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9c82bc&height=120&section=footer"/>
