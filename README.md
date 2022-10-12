@@ -58,7 +58,10 @@
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Alura](https://img.shields.io/badge/Alura-EC5252?style=for-the-badge&logo=Alura&logoColor=white)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
-
+<div align="center"> <br>
+    <a href="https://www.hackerrank.com/luanadaconc" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    </a
+</div>
 
 ## Onde pode me achar?
 <div align="center">
