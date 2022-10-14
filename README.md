@@ -81,3 +81,7 @@ Domine Google Data Studio: o Curso Completo (2022) | https://www.udemy.com/certi
 Programa One Nex Education Alura e Oracle |https://cursos.alura.com.br/program/certificate/c6d64d30-3021-4ec2-8bd9-fcc385799d28
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9c82bc&height=120&section=footer"/>
+
+
+
+
