@@ -78,6 +78,6 @@ Cursos   | Links
 Data Analytics and Visualization Camp |https://www.credly.com/badges/0d122096-57ae-4c13-8b12-718ace9bab08/linked_in_profile
 Power BI Completo - Do Básico ao Avançado| https://www.udemy.com/certificate/UC-9194390d-a2b3-45e6-94b1-b1caae1b2837
 Domine Google Data Studio: o Curso Completo (2022) | https://www.udemy.com/certificate/UC-a45d37f5-908d-4cc6-a7d7-36b4ecf342cf
-
+Programa One Nex Education Alura e Oracle |https://cursos.alura.com.br/program/certificate/c6d64d30-3021-4ec2-8bd9-fcc385799d28
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9c82bc&height=120&section=footer"/>
