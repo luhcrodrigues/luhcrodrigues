@@ -10,7 +10,7 @@
 
 📊Adequada para oportunidades juniores nas áreas de Análise de Dados.
 
-📚Atualmente faço o Bootcamp da Semantix para Big Data Engineer e Geração Tech Unimed-BH - Ciência de Dados da DIO
+📚Atualmente faço o Bootcamp da Semantix para Big Data Engineer 
 
 
 
