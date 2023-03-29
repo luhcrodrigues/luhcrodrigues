@@ -1,13 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9c82bc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+a+Luana+Rodrigues;+Sou+Certificada+em+Análise+de+Dados;+Pela+IBM+e+Laboratoria;+Futura+Engenheira+de+Dados+👩‍💻;Seja+Bem+Vindo(a)!+✨%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+a+Luana+Rodrigues;+Certificada+em+Análise+de+Dados;+Pela+IBM+e+Laboratoria;+Futura+Engenheira+de+Dados+👩‍💻;Seja+Bem+Vindo(a)!+✨%29)](https://git.io/typing-svg)
 
 
   
 
 
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=luhcrodrigues&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luhcrodrigues&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
